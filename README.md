@@ -8,3 +8,9 @@ Find me on
 - ❔ [StackOverflow](https://stackoverflow.com/users/1856221/patrick-h%c3%bcbl-neschkudla)
 - 📺 [YouTube](https://www.youtube.com/flipacem)
 - 🌐 [My Website](https://neschkudla.at)
+
+Currently working on
+
+- 🎵🖊️ [The Fablelist](https://fablelite.com)
+- 🏃🏃‍♀️ [PULSE OS](https://os.pulserunning.at)
+- 💪🏋️ [PULSE Flex](https://flex.pulserunning.at)
